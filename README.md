@@ -4,7 +4,7 @@
 
 - Pomodoro.
 
-[click here to visit](Soon).
+[click here to visit]Soon.
 
 ## Screenshots
 
